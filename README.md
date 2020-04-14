@@ -93,7 +93,7 @@ xdpm ls -w release                   # List installed plugins in Adobe XD's `dev
 xdpm ls -w prerelease                # List installed plugins in Adobe XD Prerelease `develop` folder
 ```
 
-You can install plugins that are currently installed in Adobe XD using `ls`.
+You can list plugins that are currently installed in Adobe XD using `ls`.
 
 ## Help
 
